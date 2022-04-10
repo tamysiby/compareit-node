@@ -18,6 +18,10 @@ Example:
 
 Returned <code>response</code> will be json.
 
+## Future development:
+1. Database to save previously searched data to improve performance
+2. Database for the user auth information
+
 ## Additional resources:
 1. Frontend code with complete documentation https://github.com/debdeb18/compareit-frontend-react
 2. Application demo: https://youtu.be/R0_mhcd8MY4
